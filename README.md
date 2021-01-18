@@ -1,2 +1,2 @@
 # template
-press r end use mouse and again press r
+press r and use mouse and again press r
